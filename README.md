@@ -8,7 +8,7 @@ this weeks e-Portfolio is about developing and deploying an iOS App to the Apple
 ## Components
 The components we are going to use is:
 
-+ xCode (on Mac)
++ Xcode (on Mac)
 + App Store Connect
 + Testflight (on iOS Device)
 
@@ -22,7 +22,7 @@ Have a look into the git repository if you want to use my example code.
 This example application is loading an json File locally into a codable structure (you will learn what that exactly is) and insert it into a list using SwiftUI. 
 
 ##How to import?
-1. If you want to import my Code into your own xCode, you firstly have to create a project by File -> New -> Project
+1. If you want to import my Code into your own Xcode, you firstly have to create a project by File -> New -> Project
 2. Select Single View App
 3. Name it, add your organisation Team, and choose the User Interface SwiftUI.
 4. Check Include UI Tests & Include Unit Tests (if unchecked only)
