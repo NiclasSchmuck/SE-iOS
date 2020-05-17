@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "PersonA",
+        "address" : {
+            "street" : "Hauptstr. 1",
+            "town" : "Buxtehude",
+            "postal" : "21614"
+        },
+        "email" : "persona@example.com"
+    },
+    {
+        "name" : "PersonB",
+        "address" : {
+            "street" : "910 Mainland Street",
+            "town" : "Vancouver",
+            "postal" : "12345"
+        },
+        "email" : "personb@example.com"
+    },
+    {
+        "name" : "PersonC",
+        "address" : {
+            "street" : "Untere Hauptstraße 31",
+            "town" : "Heidelberg",
+            "postal" : "69115"
+        },
+        "email" : "personc@example.com"
+    }
+]
